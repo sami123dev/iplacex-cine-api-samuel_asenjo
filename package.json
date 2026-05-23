@@ -1,0 +1,17 @@
+{
+  "name": "cine-api",
+  "version": "1.0.0",
+  "description": "API REST Para Evaluacion NRO 3 iplacex",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Samuel Asenjo",
+  "license": "Apache",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  }
+}
